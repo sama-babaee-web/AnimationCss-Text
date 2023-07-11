@@ -6,7 +6,7 @@
 
 - [Demo Project](https://sama-babaee-web.github.io/AnimationCss-Text/)
 
-- Developed by Sama Babaee 👻🖇️
+- Developed by Sama Babaee 👻🖇
 
 - Technologies Used - Html , css 
 
